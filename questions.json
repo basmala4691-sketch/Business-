@@ -1,0 +1,421 @@
+{
+  "title": "Business Economics Comprehensive Exam",
+  "subject": "Business Economics",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Which of the following major economic shifts occurred earliest in U.S. history according to the text?",
+      "options": [
+        "Agriculture-based economy",
+        "Industry-based economy",
+        "Service-based economy",
+        "Information-based economy"
+      ],
+      "answer": "Service-based economy",
+      "explanation": "During the early 1600s, the U.S. had a service-based economy where colonists bartered and traded goods and services."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "What technological innovation marked the transition into the information-based economy in the 1900s?",
+      "options": [
+        "Big manufacturing machines",
+        "The steam engine",
+        "The personal computer",
+        "Automobiles"
+      ],
+      "answer": "The personal computer",
+      "explanation": "The invention of the computer in the 1900s enabled the rapid movement of information."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "What economic indicator measures the total value of all goods and services produced in a country in a given year?",
+      "options": [
+        "Standard of Living",
+        "Gross Domestic Product (GDP)",
+        "Consumer Price Index",
+        "National Debt"
+      ],
+      "answer": "Gross Domestic Product (GDP)",
+      "explanation": "GDP is the total market value of all final goods and services produced within a nation in a given year."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "How is a country's standard of living primarily measured?",
+      "options": [
+        "By the total amount of money in bank reserves",
+        "By the total size of its national debt",
+        "By the level of material comfort as measured by goods and services available per person",
+        "By the total population of the nation"
+      ],
+      "answer": "By the level of material comfort as measured by goods and services available per person",
+      "explanation": "Standard of living reflects the availability of goods and services produced per person."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "What economic phenomenon occurs when there is a general increase in the price of goods and services?",
+      "options": [
+        "Deflation",
+        "Stagflation",
+        "Inflation",
+        "Depreciation"
+      ],
+      "answer": "Inflation",
+      "explanation": "Inflation represents a widespread rise in price levels, decreasing purchasing power."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "What is a primary cause of inflation according to the text?",
+      "options": [
+        "Excess supply of consumer products",
+        "Scarce resources transferred to war efforts and increased costs of raw materials and salaries",
+        "Decreased federal government spending",
+        "Strict bank capital controls"
+      ],
+      "answer": "Scarce resources transferred to war efforts and increased costs of raw materials and salaries",
+      "explanation": "Cost-push factors such as raw material cost increases and resource reallocation spur inflation."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "When does deflation typically occur in an economy?",
+      "options": [
+        "When demand significantly exceeds supply",
+        "When the government experiences a budget surplus",
+        "When the supply of goods is greater than demand, causing sellers to lower prices and cut production",
+        "When interest rates plummet to zero"
+      ],
+      "answer": "When the supply of goods is greater than demand, causing sellers to lower prices and cut production",
+      "explanation": "Excess production relative to buyer demand drives downward pressure on prices."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "What financial condition arises when a government's expenditures exceed its revenue over a given period?",
+      "options": [
+        "Budget Surplus",
+        "Budget Deficit",
+        "Trade Surplus",
+        "National Surplus"
+      ],
+      "answer": "Budget Deficit",
+      "explanation": "A budget deficit occurs when government spending exceeds tax receipts."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "What is the total amount of money a government owes to public, banks, and foreign countries called?",
+      "options": [
+        "National Debt",
+        "Fiscal Deficit",
+        "Capital Debt",
+        "National Reserve"
+      ],
+      "answer": "National Debt",
+      "explanation": "Cumulative budget deficits financed through borrowing result in the national debt."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Which government entity guides the economy by regulating money in circulation, controlling interest rates, and managing loans?",
+      "options": [
+        "The Department of Commerce",
+        "The Federal Reserve ('the Fed')",
+        "The Department of the Treasury",
+        "The World Bank"
+      ],
+      "answer": "The Federal Reserve ('the Fed')",
+      "explanation": "The Fed functions as the central banking system regulating US monetary policy."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "What are the four stages of the business cycle in sequential order?",
+      "options": [
+        "Prosperity, Recession, Depression, Recovery",
+        "Inflation, Deflation, Stagnation, Boom",
+        "Expansion, Contraction, Peak, Trough",
+        "Recovery, Peak, Recession, Stagnation"
+      ],
+      "answer": "Prosperity, Recession, Depression, Recovery",
+      "explanation": "The classic business cycle stages detailed in the material follow this four-stage sequence."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Which phase of the business cycle is characterized by a peak in economic activity, low unemployment, higher wages, and high consumer demand for housing and goods?",
+      "options": [
+        "Recovery",
+        "Prosperity",
+        "Recession",
+        "Expansion"
+      ],
+      "answer": "Prosperity",
+      "explanation": "Prosperity represents peak performance with robust employment and consumer confidence."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "What happens to economic activity and GDP during a recession?",
+      "options": [
+        "Economic activity increases and GDP surges",
+        "Economic activity slows down, businesses produce less, and GDP declines",
+        "Prices rise while output remains constant",
+        "Employment hits historic highs"
+      ],
+      "answer": "Economic activity slows down, businesses produce less, and GDP declines",
+      "explanation": "Recessions feature generalized pullbacks in industrial output and overall economic activity."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "What is the 'ripple effect' during an economic recession?",
+      "options": [
+        "When prices lower across all consumer goods uniformly",
+        "When a downturn in one industry spreads and negatively affects other related industries",
+        "When government spending offsets private market drops",
+        "When global markets recover simultaneously"
+      ],
+      "answer": "When a downturn in one industry spreads and negatively affects other related industries",
+      "explanation": "Downturns in primary sectors (e.g., auto) spill over into supply-chain partners (e.g., parts makers)."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "How does a depression differ from a standard recession?",
+      "options": [
+        "A depression is shorter in duration but affects more countries",
+        "A depression is a deep recession that affects the entire economy and lasts for several years",
+        "A depression only impacts monetary institutions without affecting employment",
+        "A depression occurs exclusively during wartime"
+      ],
+      "answer": "A depression is a deep recession that affects the entire economy and lasts for several years",
+      "explanation": "Depressions represent prolonged, widespread, and severe economic downturns."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Which historical event marked the beginning of the Great Depression in the United States?",
+      "options": [
+        "The declaration of the bank holiday in March 1933",
+        "The passage of high import tariffs in 1930",
+        "The stock market crash on October 29, 1929 ('Black Tuesday')",
+        "The entry of the U.S. into World War I"
+      ],
+      "answer": "The stock market crash on October 29, 1929 ('Black Tuesday')",
+      "explanation": "Black Tuesday signaled the collapse of stock values and triggered the Great Depression."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "During the worst years of the Great Depression (1929\u20131933), what happened to U.S. GDP?",
+      "options": [
+        "It fell by nearly 50 percent, dropping from approximately $103 billion to $55 billion",
+        "It dropped by 10 percent",
+        "It remained stagnant due to government interventions",
+        "It fell from $500 billion to $300 billion"
+      ],
+      "answer": "It fell by nearly 50 percent, dropping from approximately $103 billion to $55 billion",
+      "explanation": "U.S. GDP suffered a catastrophic drop of roughly 50 percent between 1929 and 1933."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "What action did the federal government take in March 1933 to address widespread bank panics and withdrawals?",
+      "options": [
+        "Nationalized all major private banks permanently",
+        "Declared a 'bank holiday,' closing every bank in the country for several days",
+        "Printed $100 billion in new currency immediately",
+        "Abolished the Federal Reserve System"
+      ],
+      "answer": "Declared a 'bank holiday,' closing every bank in the country for several days",
+      "explanation": "The bank holiday temporarily halted panicked bank runs to stabilize the financial system."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "What economic phase follows a recession or depression, marked by a rise in business activity and returning workers?",
+      "options": [
+        "Stagnation",
+        "Recovery",
+        "Prosperity",
+        "Deflation"
+      ],
+      "answer": "Recovery",
+      "explanation": "Recovery is the turnaround stage where employment and production begin ascending."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "How did innovation play a crucial role during the recovery period after World War II?",
+      "options": [
+        "Businesses re-implemented 19th-century production techniques",
+        "Some businesses innovated by bringing out new goods and services that differed from wartime production",
+        "Companies reduced research and development spending completely",
+        "Governments banned international trade competitors"
+      ],
+      "answer": "Some businesses innovated by bringing out new goods and services that differed from wartime production",
+      "explanation": "Post-war innovation in consumer goods drove renewed market expansion and business growth."
+    },
+    {
+      "id": 21,
+      "type": "true_false",
+      "question": "True or False: During the early 1600s, the United States economy was primarily an industry-based economy.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "explanation": "It was service-based through bartering; the industrial economy began in the mid-1850s."
+    },
+    {
+      "id": 22,
+      "type": "true_false",
+      "question": "True or False: Gross domestic product (GDP) is one of the most important indicators of an economy's status.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "explanation": "GDP serves as the primary benchmark for measuring aggregate economic output."
+    },
+    {
+      "id": 23,
+      "type": "true_false",
+      "question": "True or False: Inflation increases consumer buying power, allowing people to buy more goods and services with the same amount of money.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "explanation": "Inflation reduces purchasing power because higher prices mean money buys fewer goods."
+    },
+    {
+      "id": 24,
+      "type": "true_false",
+      "question": "True or False: A budget surplus occurs when a government's revenue exceeds its expenditures over a one-year period.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "explanation": "Surpluses occur whenever net collected tax revenues outstrip total annual outlays."
+    },
+    {
+      "id": 25,
+      "type": "true_false",
+      "question": "True or False: During a depression, the money supply expands significantly, causing civic bodies to stop printing local scrip.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "explanation": "The money supply fell by one-third during the Great Depression, forcing local entities to issue scrip."
+    },
+    {
+      "id": 26,
+      "type": "matching",
+      "question": "Match the economic term with its correct definition: Gross Domestic Product (GDP)",
+      "options": [
+        "The total value of goods and services produced in a country in a given year",
+        "A general decrease in the price of goods and services resulting from excess supply",
+        "The amount by which government expenditures exceed revenue over a period",
+        "The level of material comfort measured by goods and services per person"
+      ],
+      "answer": "The total value of goods and services produced in a country in a given year",
+      "explanation": "GDP measures total nationwide annual production."
+    },
+    {
+      "id": 27,
+      "type": "matching",
+      "question": "Match the economic term with its correct definition: Deflation",
+      "options": [
+        "The total value of goods and services produced in a country in a given year",
+        "A general decrease in the price of goods and services resulting from excess supply",
+        "The amount by which government expenditures exceed revenue over a period",
+        "The level of material comfort measured by goods and services per person"
+      ],
+      "answer": "A general decrease in the price of goods and services resulting from excess supply",
+      "explanation": "Deflation is defined by dropping overall price levels."
+    },
+    {
+      "id": 28,
+      "type": "matching",
+      "question": "Match the economic term with its correct definition: Budget Deficit",
+      "options": [
+        "The total value of goods and services produced in a country in a given year",
+        "A general decrease in the price of goods and services resulting from excess supply",
+        "The amount by which government expenditures exceed revenue over a period",
+        "The level of material comfort measured by goods and services per person"
+      ],
+      "answer": "The amount by which government expenditures exceed revenue over a period",
+      "explanation": "Deficits represent annual fiscal shortfalls."
+    },
+    {
+      "id": 29,
+      "type": "matching",
+      "question": "Match the historical economic era with its primary driver: Mid-1850s Industrial Revolution",
+      "options": [
+        "The advent of big machines for producing goods, starting an industry-based economy",
+        "The rapid movement of information enabled by computer technology",
+        "Bartering and trading goods in agricultural communities",
+        "Modern digital services and cloud infrastructure"
+      ],
+      "answer": "The advent of big machines for producing goods, starting an industry-based economy",
+      "explanation": "The mid-1850s introduced large-scale machinery and industrial manufacturing."
+    },
+    {
+      "id": 30,
+      "type": "matching",
+      "question": "Match the economic indicator with what it measures: Unemployment Rate",
+      "options": [
+        "Measures the number of people who are able and willing to work but cannot find work",
+        "Measures the total purchasing power parity of households",
+        "Measures global trade balances across all commercial sectors",
+        "Measures price changes across consumer commodity baskets"
+      ],
+      "answer": "Measures the number of people who are able and willing to work but cannot find work",
+      "explanation": "The unemployment rate tracks jobless individuals actively seeking work."
+    },
+    {
+      "id": 31,
+      "type": "short_answer",
+      "question": "How did World War II fundamentally impact the U.S. economy's recovery from the Great Depression?",
+      "answer": "Massive war production stimulated economic activity and recovery much faster than standard market forces alone.",
+      "explanation": "Wartime defense spending drove rapid production expansion and massive job creation."
+    },
+    {
+      "id": 32,
+      "type": "short_answer",
+      "question": "If an economy experiences an auto-making industry slump that subsequently causes parts suppliers, raw material producers, and tire manufacturers to lay off workers, which economic concept is being demonstrated?",
+      "answer": "The ripple effect",
+      "explanation": "Interconnected supply-chain drops spread an initial economic slowdown across multiple sectors."
+    },
+    {
+      "id": 33,
+      "type": "short_answer",
+      "question": "During a period of prosperity, why do wages typically rise alongside higher demand for goods?",
+      "answer": "Because increased business activity and low unemployment create competition among employers for productive workers.",
+      "explanation": "Tight labor markets force firms to offer higher compensation to attract and keep employees."
+    },
+    {
+      "id": 34,
+      "type": "short_answer",
+      "question": "Why did the federal government declare a bank holiday in March 1933?",
+      "answer": "To stop widespread panic withdrawals and evaluate the solvency of banks across the nation.",
+      "explanation": "The bank closure period halted capital depletion while healthier banking institutions were re-certified."
+    },
+    {
+      "id": 35,
+      "type": "short_answer",
+      "question": "How does innovation during a recovery phase help businesses succeed against competitors?",
+      "answer": "By introducing new or different goods and services that capture consumer demand, lowering unit costs, and increasing profitability.",
+      "explanation": "Innovative offerings stimulate fresh market demand and optimize cost efficiencies."
+    }
+  ]
+}
